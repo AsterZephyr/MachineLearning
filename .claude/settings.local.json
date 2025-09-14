@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:wdndev.github.io)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
