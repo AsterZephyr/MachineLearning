@@ -10,7 +10,14 @@
       "Bash(./tf_env_new/bin/python3 run_5_3.py)",
       "Bash(./tf_env_new/bin/python3 run_5_4.py)",
       "Bash(./tf_env_new/bin/python3 run_5_5.py)",
-      "Bash(./tf_env_new/bin/python3 run_5_6.py)"
+      "Bash(./tf_env_new/bin/python3 run_5_6.py)",
+      "Bash(./tf_env_new/bin/python3 run_6_1.py)",
+      "Bash(./tf_env_new/bin/python3 run_6_2.py)",
+      "Bash(./tf_env_new/bin/python3 run_6_3.py)",
+      "Bash(./tf_env_new/bin/python3 run_6_4.py)",
+      "Bash(./tf_env_new/bin/python3 run_6_5.py)",
+      "Bash(./tf_env_new/bin/python3 run_6_6.py)",
+      "Bash(./tf_env_new/bin/python3:*)"
     ],
     "deny": [],
     "ask": []
