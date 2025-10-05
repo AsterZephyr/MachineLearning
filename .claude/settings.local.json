@@ -1,7 +1,16 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:wdndev.github.io)"
+      "WebFetch(domain:wdndev.github.io)",
+      "WebFetch(domain:zh.d2l.ai)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(python3:*)",
+      "Bash(./tf_env_new/bin/python3 -c \"import tensorflow as tf; print(''TensorFlow version:'', tf.__version__)\")",
+      "Bash(./tf_env_new/bin/python3 run_5_2.py)",
+      "Bash(./tf_env_new/bin/python3 run_5_3.py)",
+      "Bash(./tf_env_new/bin/python3 run_5_4.py)",
+      "Bash(./tf_env_new/bin/python3 run_5_5.py)",
+      "Bash(./tf_env_new/bin/python3 run_5_6.py)"
     ],
     "deny": [],
     "ask": []
